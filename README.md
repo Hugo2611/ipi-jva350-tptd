@@ -54,7 +54,14 @@ https://git-scm.com/download/win ). Quelques liens :
   - ajoutez dans le workflow Github la configuration de l'analyse Sonar Cloud du code
 - Rédigez **ci-dessous** une courte analyse du premier rapport produit par Sonar (métriques, état général...) :
 
-Le premier rapport Sonar indique...
+Le premier rapport Sonar indique :
+Security 0
+Reliability 1
+Maintainability 26
+Accepted Issues 0
+Duplications 3.6%
+Security Hotspots 0
+
 
 
 ### Tests unitaires
